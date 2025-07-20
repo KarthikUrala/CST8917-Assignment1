@@ -1,0 +1,5 @@
+azure-functions
+azure-functions-durable
+pillow
+pyodbc>=4.0.32
+
